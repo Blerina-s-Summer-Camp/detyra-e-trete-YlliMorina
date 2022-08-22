@@ -1,0 +1,10 @@
+In the files, I have uploaded, the exercises of creating different shapes.
+In the below files, you will find the exercise file of each shape.
+
+File : PythonApplication1.py => Star Shape
+
+File : PythonApplication2.py => Star Shape and Square(maze) Shape
+
+File : PythonApplication3.py => Star Shape, Square(maze) Shape, and Triange Shape
+                
+
